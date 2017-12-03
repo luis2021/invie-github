@@ -1,0 +1,4 @@
+b4ec462 (HEAD -> master) Agregando guitarra acustica
+6e08393 Sumando nuevo hero
+025a89b (tag: 0.3) agregando el header
+38e82d6 (tag: 0.1) inicializar nuestro landing
